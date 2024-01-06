@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Vinicius Henrique 🤙🏻👋🏻
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinicius-henrique-51a013272)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-henrique-51a013272/)
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusHnrq&show_icons=true&theme=tokyonight)
 
